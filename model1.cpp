@@ -47,7 +47,7 @@ int main(int argc, char *argv[])
     window.setScrollCallback(scroll_callback);
     window.setMouseCallback(mouse_callback);
 
-    Shader objectShader("/usr/OpenGL/models/shaders/vShader.vs", "/usr/OpenGL/models/shaders/fShader.fs");
+    Shader objectShader("./models/shaders/vShader.vs", "./models/shaders/fShader.fs");
 
     Model model(argv[1]);
 
