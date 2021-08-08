@@ -1,6 +1,6 @@
 # OpenGL
 
-Basic OpenGL Concepts implemented in C++ with the help of tutorials from [https://learnopengl.com](https://learnopengl.com/).
+Basic OpenGL Concepts implemented in C/C++ with the help of tutorials from [https://learnopengl.com](https://learnopengl.com/).
 
 ## Libraries Used
 
