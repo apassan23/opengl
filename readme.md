@@ -13,10 +13,10 @@ Basic OpenGL Concepts implemented in C++ with the help of tutorials from [https:
 
 ## Getting Started
 
-For installing **OpenGL** Libraries
+For installing **OpenGL** Libraries in unix,
 
 ```bash
-sudo apt install mesa-utilities
+sudo apt install mesa-utils
 ```
 
 For installing **GLFW and GLAD**, refer to [this](https://learnopengl.com/Getting-started/Creating-a-window) guide.
